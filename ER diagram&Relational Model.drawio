@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T04:47:07.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NyeGYn7NqJnRbdb57MxC" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-03T05:16:04.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="5tgzL4gbolcy7AKZRh8z" version="24.0.1" type="github">
   <diagram name="Page-1" id="JMm6PtPlRwwBxD2z2W0a">
-    <mxGraphModel dx="2419" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2193" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1421,6 +1421,18 @@
         </mxCell>
         <mxCell id="lD5-SnpX7ivPdxwVdFSV-302" value="this line is correct, but may be misunderstood because too much cross lines. so be careful during final exam" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1540" y="4650" width="250" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="lD5-SnpX7ivPdxwVdFSV-303" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;a) Strong entity:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Bank, Account, Loan, Customer&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;b)weak entity:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Bank_branch, Partial key: Branch_no, identifying relationship:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;c)what constraints:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="5370" width="530" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="lD5-SnpX7ivPdxwVdFSV-304" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Q5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="5310" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lD5-SnpX7ivPdxwVdFSV-305" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Q5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="805" y="5320" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lD5-SnpX7ivPdxwVdFSV-306" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;a) Strong entity:&lt;/font&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Bank, Account, Loan, Customer&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;b)weak entity:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Bank_branch, Partial key: Branch_no, identifying relationship:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font color=&quot;#ff2b72&quot; style=&quot;font-size: 22px;&quot;&gt;Branches&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;c)what constraints:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font color=&quot;#ff1c59&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, &amp;quot;Cascadia Code&amp;quot;, Menlo, &amp;quot;Ubuntu Mono&amp;quot;, Consolas, HYZhengYuan; orphans: 4; white-space-collapse: preserve;&quot;&gt;The partial key BranchNo in BANK-BRANCH specifies that the same BranchNo value may occur under different BANKs. The identifying relationship BRANCHES specifies that BranchNo values are uniquely assigned for those BANK-BRANCH entities that are related to the same BANK entity. Hence, the combination of BANK Code and BranchNo together constitute a full identifier for a BANK-BRANCH&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="805" y="5380" width="805" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
