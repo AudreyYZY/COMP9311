@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T03:48:00.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="snBvBi5VelVosafj7gAm" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-03T03:53:19.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3XIhF_yEWBXm-IO6HJm8" version="24.0.1" type="github">
   <diagram name="Page-1" id="JMm6PtPlRwwBxD2z2W0a">
-    <mxGraphModel dx="1653" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1553" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1055,6 +1055,9 @@
         </mxCell>
         <mxCell id="lD5-SnpX7ivPdxwVdFSV-204" value="&lt;font color=&quot;#ff2448&quot;&gt;No. of Aircrafts&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF3867;" vertex="1" parent="1">
           <mxGeometry x="429" y="3140" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lD5-SnpX7ivPdxwVdFSV-207" value="&lt;font color=&quot;#994c00&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Assumption:&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#994c00&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Each aircraft must be owned by an airline.&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#994c00&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Each polit cannot work for multiple airlines at the same time.&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#994c00&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Each pilot must work for an airline, and the airlines that the pilot has previously worked for are not recorded.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF2652;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="3780" width="409" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
